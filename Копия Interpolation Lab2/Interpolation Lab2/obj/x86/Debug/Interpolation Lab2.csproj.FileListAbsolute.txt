@@ -1,0 +1,29 @@
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.exe
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.pdb
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation_Lab2.Form1.resources
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation_Lab2.Properties.Resources.resources
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.exe
+D:\Documents and Settings\Alexander\мои документы\visual studio 2010\Projects\Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.pdb
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.exe
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.pdb
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.exe
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.pdb
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation_Lab2.Form1.resources
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation_Lab2.Properties.Resources.resources
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Alexander\Мои документы\Visual Studio 2010\Projects\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.exe.config
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.exe
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\bin\Debug\Interpolation Lab2.pdb
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation_Lab2.Form1.resources
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation_Lab2.Properties.Resources.resources
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.exe
+C:\Users\Александр\Desktop\Flash Recovery\Recover\ЧМ\Копия Interpolation Lab2\Interpolation Lab2\obj\x86\Debug\Interpolation Lab2.pdb
